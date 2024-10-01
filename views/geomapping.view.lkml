@@ -1,5 +1,5 @@
 view: geomapping {
-  sql_table_name: `dataform.geomapping` ;;
+  sql_table_name: `geomapping` ;;
 
   dimension: class {
     type: string
